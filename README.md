@@ -1,0 +1,1 @@
+This is a paddle catch game with two RL algorithms like SARSA and Q-Learning integrated in it.We can switch to the model we want by just changing the line MODE==SARSA or MODE==Q learning.We have used pygame for the user interaction manually.
